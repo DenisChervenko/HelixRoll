@@ -1,6 +1,4 @@
 # HelixRoll
-̶G̶a̶m̶e̶ ̶i̶n̶ ̶g̶o̶o̶g̶l̶e̶ ̶p̶l̶a̶y̶ (I got a ban due to the fact that I live in a territory that falls under US sanctions)
-
 
 This project was also focused on the speed of its creation, but for some military and political reasons,
 I did not have the opportunity to work on it
@@ -21,8 +19,3 @@ perhaps this is due to the simplicity of the code, or because of my inexperience
    <img src="https://sun9-19.userapi.com/s/v1/if2/873nBP0yopat9CfE1t3QY5lUkbh3gsqX6y7HE5bxYcn9bfk1x5ovIY8eodem0PjrqvydDq4tgiWP2erlLXWDf-98.jpg?size=540x1080&quality=95&type=album" width="200"/>
 </div>
 
- ̶h̶t̶t̶p̶s̶:̶/̶/̶p̶l̶a̶y̶.̶g̶o̶o̶g̶l̶e̶.̶c̶o̶m̶/̶s̶t̶o̶r̶e̶/̶a̶p̶p̶s̶/̶d̶e̶t̶a̶i̶l̶s̶?̶i̶d̶=̶c̶o̶m̶.̶P̶a̶t̶e̶y̶k̶a̶D̶e̶v̶.̶H̶e̶l̶i̶x̶R̶o̶l̶l̶
-
-I will upload all my apk project at google disk
-
-https://drive.google.com/drive/folders/1cemj8OkZizCQN_OGKoeina65WaXOUOdO?usp=sharing
